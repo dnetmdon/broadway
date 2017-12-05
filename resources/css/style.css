@@ -1,9 +1,11 @@
-h1 {
-  color: green;
+
 }
-#banner {
-  background-image: url("./resources/images/the-flatiron-building.png");
-  color: black;
+#Main-Title {
+  Font-size: 70px;
+}
+.banner {
+  background-color: gray;
+  color: white;
 }
 body {
   text-align: center;
