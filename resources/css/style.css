@@ -11,3 +11,17 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+a {
+  color:white;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white
+}
